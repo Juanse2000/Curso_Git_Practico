@@ -2,3 +2,5 @@ Este es la historia de Sebastian
 
 Este es un ajuste hecho desde el 
 primer commit del archivo historia.txt
+
+Prueba de git reset HEAD
