@@ -5,4 +5,6 @@ primer commit del archivo historia.txt
 
 Master 1
 
+Master 2
+
 Prueba de git reset HEAD
